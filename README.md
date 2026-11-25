@@ -2,7 +2,7 @@
 
 **Module:** Intelligent Interactive Systems  
 **University:** University of Birmingham  
-**README prose word count:** Approximately 650 words (excluding code and setup commands).
+**README prose word count:** 894 words (excluding code and setup commands).
 
 ## 1. Project Overview
 
