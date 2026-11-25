@@ -1,0 +1,6 @@
+{
+  "name": "TechChoice – Adaptive Technology Shopping Platform",
+  "description": "Smart shopping. Better decisions. A multi-page adaptive technology e-commerce prototype exploring goal- and knowledge-based choice reduction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
